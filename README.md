@@ -1,2 +1,1 @@
-# win-
-基于pywin32和apscheduler两个库做的自动化脚本
+基于pywin32和apscheduler两个库做的自动化脚本，目前只是用了微信，理论上任意客户端都可以配置
